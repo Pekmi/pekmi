@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="bannerDiffusionUpscale.png" alt="Profile Banner" width="800">
+    <img src="bannerGithubBG" alt="Profile Banner" width="800">
 </div>
